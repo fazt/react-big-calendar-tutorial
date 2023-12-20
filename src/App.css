@@ -1,0 +1,14 @@
+.rbc-event {
+    background: yellow;
+    padding: 10px;
+}
+
+.rbc-active {
+    background: yellow !important;
+    padding: 10px;
+}
+
+.rbc-day-bg {
+    background: wheat;
+    padding: 40px;
+}
